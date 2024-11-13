@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "shirt product",
+      "class": "shirt",
+      "prise": 41.25,
+      "image": "./photo/s1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Jewelry product",
+      "class": "Jewelry",
+      "prise": 145.33,
+      "image": "./photo/j1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Gown product",
+      "class": "Gown",
+      "prise": 52.33,
+      "image": "./photo/g1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "watch product",
+      "class": "watch",
+      "prise": 23.75,
+      "image": "./photo/w1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "shirt product",
+      "class": "shirt",
+      "prise": 25.33,
+      "image": "./photo/s2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Gown product",
+      "class": "Gown",
+      "prise": 32.25,
+      "image": "./photo/g3.jpg"
+    },
+    {
+      "id": 7,
+      "title": "shirt product",
+      "class": "shirt",
+      "prise": 54.14,
+      "image": "./photo/s3.jpg"
+    },
+    {
+      "id": 8,
+      "title": "watch product",
+      "class": "watch",
+      "prise": 12.33,
+      "image": "./photo/w2.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Gown product",
+      "class": "Gown",
+      "prise": 45.14,
+      "image": "./photo/g4.jpg"
+    },
+    {
+      "id":10,
+      "title": "watch product",
+      "class": "watch",
+      "prise": 21.33,
+      "image": "./photo/w3.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Jewelry product",
+      "class": "Jewelry",
+      "prise": 18.54,
+      "image": "./photo/j3.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Jewelry product",
+      "class": "Jewelry",
+      "prise": 12.25,
+      "image": "./photo/j4.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Jewelry product",
+      "class": "Jewelry",
+      "prise": 15.33,
+      "image": "./photo/j5.jpg"
+    }
+  ]
+}
