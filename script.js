@@ -1,5 +1,6 @@
 const searchInput = document.querySelector("#search");
 const productsDOM = document.querySelector(".products-center");
+const btns = document.querySelectorAll(".btn");
 
 let allproductsdata = [];
 const filters = {
@@ -46,4 +47,14 @@ searchInput.addEventListener("input", (e) => {
   //console.log(e.target.value);
   filters.searchItems = e.target.value;
   renderproducts(allproductsdata, filters);
+});
+
+//filter based on groups:
+btns.forEach((btn) => {
+  btn.addEventListener("click", (e) => {
+    const filter = e.target.dataset.filter;
+    console.log(filter);
+    filters.searchItems = filter;
+    renderproducts(allproductsdata, filters);
+  });
 });
